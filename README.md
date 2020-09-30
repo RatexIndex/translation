@@ -54,7 +54,6 @@ What are Blockchain Based Digital Assets?  And why should we care?
 <h2 id="the_basics">The Basics: What are Blockchain Based Digital Assets?</h2>
 They are digital things whose ownership is expressed and controlled on a blockchain.
 
-<iframe src="https://www.youtube.com/embed/wbFJrfaQCD0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
  
 
@@ -65,8 +64,6 @@ They are digital things whose ownership is expressed and controlled on a blockch
 <h2 id="why_should_games_care">Why Should Games care about Blockchain Based Digital Assets?</h2>
 Because they can create new business models and new relationships with players.
 
-<iframe src="https://www.youtube.com/embed/3fyCYS5Nrc0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
- 
 
  
