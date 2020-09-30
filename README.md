@@ -110,7 +110,6 @@ ________________________________________________________________________________
 
 Token Types - NFTs, FTs, NTTs
 
-<iframe src="https://www.youtube.com/embed/YjLoeT88UFA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"><span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start">﻿</span></iframe>
 
 <h3>Non-Fungible Tokens (NFTs)</h3>
 
